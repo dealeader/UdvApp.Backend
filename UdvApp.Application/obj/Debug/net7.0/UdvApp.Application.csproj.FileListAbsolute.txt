@@ -1,0 +1,15 @@
+C:\Users\imkmi\source\repos\UdvApp.Backend\UdvApp.Application\bin\Debug\net7.0\UdvApp.Application.deps.json
+C:\Users\imkmi\source\repos\UdvApp.Backend\UdvApp.Application\bin\Debug\net7.0\UdvApp.Application.dll
+C:\Users\imkmi\source\repos\UdvApp.Backend\UdvApp.Application\bin\Debug\net7.0\UdvApp.Application.pdb
+C:\Users\imkmi\source\repos\UdvApp.Backend\UdvApp.Application\bin\Debug\net7.0\UdvApp.Domain.dll
+C:\Users\imkmi\source\repos\UdvApp.Backend\UdvApp.Application\bin\Debug\net7.0\UdvApp.Domain.pdb
+C:\Users\imkmi\source\repos\UdvApp.Backend\UdvApp.Application\obj\Debug\net7.0\UdvApp.Application.csproj.AssemblyReference.cache
+C:\Users\imkmi\source\repos\UdvApp.Backend\UdvApp.Application\obj\Debug\net7.0\UdvApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\imkmi\source\repos\UdvApp.Backend\UdvApp.Application\obj\Debug\net7.0\UdvApp.Application.AssemblyInfoInputs.cache
+C:\Users\imkmi\source\repos\UdvApp.Backend\UdvApp.Application\obj\Debug\net7.0\UdvApp.Application.AssemblyInfo.cs
+C:\Users\imkmi\source\repos\UdvApp.Backend\UdvApp.Application\obj\Debug\net7.0\UdvApp.Application.csproj.CoreCompileInputs.cache
+C:\Users\imkmi\source\repos\UdvApp.Backend\UdvApp.Application\obj\Debug\net7.0\UdvApp.Application.csproj.CopyComplete
+C:\Users\imkmi\source\repos\UdvApp.Backend\UdvApp.Application\obj\Debug\net7.0\UdvApp.Application.dll
+C:\Users\imkmi\source\repos\UdvApp.Backend\UdvApp.Application\obj\Debug\net7.0\refint\UdvApp.Application.dll
+C:\Users\imkmi\source\repos\UdvApp.Backend\UdvApp.Application\obj\Debug\net7.0\UdvApp.Application.pdb
+C:\Users\imkmi\source\repos\UdvApp.Backend\UdvApp.Application\obj\Debug\net7.0\ref\UdvApp.Application.dll
